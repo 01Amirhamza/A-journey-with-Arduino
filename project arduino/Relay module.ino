@@ -1,5 +1,5 @@
 // C++ code
-// RElay module
+// Relay module
 int relay_pin=8;
 void setup()
 {

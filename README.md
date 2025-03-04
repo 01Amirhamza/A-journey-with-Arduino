@@ -1,2 +1,4 @@
 # A-journey-with-Arduino
-basic of robotics .
+Basic coding for robotics.
+<br>
+Athur- Amir Hamza
